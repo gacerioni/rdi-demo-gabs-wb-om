@@ -1,0 +1,175 @@
+[
+  {
+    "first_name": "Lucas",
+    "last_name": "Silva",
+    "age": 35,
+    "address": {
+      "street_number": 123,
+      "street_name": "Rua dos Pinheiros",
+      "city": "São Paulo",
+      "state": "SP",
+      "postal_code": "05422-000",
+      "country": "Brazil"
+    },
+    "skills": [
+      "guitar",
+      "piano",
+      "trombone"
+    ],
+    "personal_statement": "My name is Lucas, I love meeting new people and enjoy music, coding and walking my dog."
+  },
+  {
+    "first_name": "Gabriela",
+    "last_name": "Costa",
+    "age": 27,
+    "address": {
+      "street_number": 456,
+      "unit": "Bloco B",
+      "street_name": "Avenida Paulista",
+      "city": "São Paulo",
+      "state": "SP",
+      "postal_code": "01311-000",
+      "country": "Brazil"
+    },
+    "skills": [
+      "drums",
+      "guitar",
+      "synths"
+    ],
+    "personal_statement": "I'm Gabriela, a multi-instrumentalist and singer looking to join a new rock band."
+  },
+  {
+    "first_name": "Rafael",
+    "last_name": "Mendes",
+    "age": 43,
+    "address": {
+      "street_number": 789,
+      "street_name": "Rua Visconde de Pirajá",
+      "city": "Rio de Janeiro",
+      "state": "RJ",
+      "postal_code": "22410-003",
+      "country": "Brazil"
+    },
+    "skills": [
+      "clarinet",
+      "oboe",
+      "drums"
+    ],
+    "personal_statement": "I'm in a really cool band that plays a lot of cover songs. I'm the drummer!"
+  },
+  {
+    "first_name": "Mariana",
+    "last_name": "Ferreira",
+    "age": 37,
+    "address": {
+      "street_number": 1010,
+      "unit": "Apartamento 301",
+      "street_name": "Avenida Sete de Setembro",
+      "city": "Salvador",
+      "state": "BA",
+      "postal_code": "40080-001",
+      "country": "Brazil"
+    },
+    "skills": [
+      "vocals",
+      "guitar"
+    ],
+    "personal_statement": "I sing and play the guitar, I enjoy touring and meeting new people on the road."
+  },
+  {
+    "first_name": "Thiago",
+    "last_name": "Lima",
+    "age": 21,
+    "address": {
+      "street_number": 1313,
+      "street_name": "Rua Oswaldo Cruz",
+      "city": "Recife",
+      "state": "PE",
+      "postal_code": "50050-210",
+      "country": "Brazil"
+    },
+    "skills": [
+      "harmonica",
+      "vocals",
+      "trumpet"
+    ],
+    "personal_statement": "Thiago here - I'm a singer and trumpet player based in Recife, always excited to play with a band."
+  },
+  {
+  "first_name": "Zeca",
+  "last_name": "Pagodinho",
+  "age": 63,
+  "address": {
+    "street_number": 100,
+    "street_name": "Rua da Consolação",
+    "city": "São Paulo",
+    "state": "SP",
+    "postal_code": "01302-000",
+    "country": "Brazil"
+  },
+  "skills": [
+    "vocals",
+    "pandeiro",
+    "cavaquinho"
+  ],
+  "personal_statement": "Zeca Pagodinho here - a samba and pagode singer from Rio, but making waves in São Paulo. Passionate about Brazilian music and culture, always ready to bring joy through my songs."
+},
+  {
+  "first_name": "Martinho",
+  "last_name": "da Vila",
+  "age": 84,
+  "address": {
+    "street_number": 200,
+    "street_name": "Rua Visconde de Pirajá",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "postal_code": "22410-003",
+    "country": "Brazil"
+  },
+  "skills": [
+    "vocals",
+    "banjo",
+    "percussion"
+  ],
+  "personal_statement": "Martinho da Vila here, a proud ambassador of Samba, weaving stories of Brazil through my songs. My heart beats in rhythm with the surdo, and my voice carries the soul of Rio."
+},
+{
+  "first_name": "Samuel",
+  "last_name": "Rosa",
+  "age": 56,
+  "address": {
+    "street_number": 300,
+    "street_name": "Avenida Afonso Pena",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "postal_code": "30130-023",
+    "country": "Brazil"
+  },
+  "skills": [
+    "vocals",
+    "guitar",
+    "bass"
+  ],
+  "personal_statement": "Samuel Rosa from Skank, rocking out of Belo Horizonte. Blending rock with Brazilian beats, my music is a dialogue between global sounds and local tales."
+},
+{
+  "first_name": "Pitty",
+  "last_name": "Leone",
+  "age": 44,
+  "address": {
+    "street_number": 450,
+    "street_name": "Avenida Sete de Setembro",
+    "city": "Salvador",
+    "state": "BA",
+    "postal_code": "40080-001",
+    "country": "Brazil"
+  },
+  "skills": [
+    "vocals",
+    "guitar",
+    "songwriting"
+  ],
+  "personal_statement": "Pitty here, rocking from Salvador, Bahia. My music is a blend of raw emotions, power chords, and the spirit of Brazilian rock. Always aiming to connect with fans around the world through my songs and performances."
+}
+
+]
